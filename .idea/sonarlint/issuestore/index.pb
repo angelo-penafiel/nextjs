@@ -2154,3 +2154,19 @@ T
 $app/dashboard/(overview)/loading.tsx,1\c\1c25938ff5ddec013e7e76950ab5dd9b76f69fd1
 Q
 !app/dashboard/(overview)/page.tsx,8\6\8691e0a86d8dd4ae5599e1b8efd6999e5bc852c3
+V
+&app/dashboard/invoices/create/page.tsx,a\5\a55d45c012402c12fc03fd5ea7312cd0b49029f3
+B
+app/lib/actions.ts,b\b\bbc30da352995d1ea361b08efe5558481d035619
+R
+"app/ui/invoices/[id]/edit/page.tsx,6\f\6f750bc39a3e2d942cb96a30c6092b4e79417463
+Y
+)app/dashboard/invoices/[id]/edit/page.tsx,f\6\f610627afba34fcfeaa827ded714d560e2ea6b59
+M
+app/dashboard/invoices/errors,8\a\8a4e3d586f041a7d92f17b4fa60e9ea75bfe1a90
+Q
+!app/dashboard/invoices/errors.tsx,1\d\1de072769ae9ce5a194d2abdcea144894f589112
+P
+ app/dashboard/invoices/error.tsx,6\0\60234283febc1ecc6aa650ce68dca7151bc1734b
+^
+.app/dashboard/invoices/[id]/edit/not-found.tsx,c\5\c5319178954e525f086eaad184d96f9fc0e650c0
