@@ -2170,3 +2170,11 @@ P
  app/dashboard/invoices/error.tsx,6\0\60234283febc1ecc6aa650ce68dca7151bc1734b
 ^
 .app/dashboard/invoices/[id]/edit/not-found.tsx,c\5\c5319178954e525f086eaad184d96f9fc0e650c0
+B
+app/login/page.tsx,e\f\ef6d8010637089bf88bdd08921e2d29ff2928fa4
+B
+app/auth.config.ts,c\a\ca009a463be4fffbed5379ef431c76fd2acb2ad6
+A
+app/middleware.ts,2\4\24e39b59e778145a7500155fad0174296c36a505
+;
+app/auth.ts,3\5\35e2552965892bae1a0e272d7f0bbf3e418872df
